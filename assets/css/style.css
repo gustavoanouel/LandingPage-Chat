@@ -108,7 +108,7 @@ button:hover {
 .chat {
   display: flex;
   justify-content: space-evenly;
-  padding: 0.8em;
+  padding: 1em;
   border: 0.6px silver solid;
   cursor: pointer;
 }
