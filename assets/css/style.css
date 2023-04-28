@@ -75,6 +75,10 @@
   color: rgb(152, 152, 152);
 }
 
+.options a:hover {
+  color: rgb(129, 128, 128);
+}
+
 .green-point {
   color: green;
   font-size: 0.6em;
